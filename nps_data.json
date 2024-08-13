@@ -1,0 +1,17 @@
+{
+    "labels": [
+        "Passives",
+        "Promoters",
+        "Detractors"
+    ],
+    "counts": [
+        11,
+        9,
+        6
+    ],
+    "colors": [
+        "#4CAF50",
+        "#FFC107",
+        "#F44336"
+    ]
+}
